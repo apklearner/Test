@@ -1,1 +1,2 @@
-{"key":"1234555","key2":"1234343553"}
+http://www.baidu.com
+http://www.google.cn
